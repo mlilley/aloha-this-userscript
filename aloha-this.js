@@ -10,7 +10,7 @@
 // @run-at       document-start
 // ==/UserScript==
 (function() {
-   ‘use strict’;
-   $(‘div.aloha-carousel.slick-initialized.slick-slider’).remove();
-   $(‘.tile’).css(“width: 150px; height: 80px”);
+   'use strict';
+   $('div.aloha-carousel.slick-initialized.slick-slider').remove();
+   $('.tile').css("width: 150px; height: 80px");
 })();
